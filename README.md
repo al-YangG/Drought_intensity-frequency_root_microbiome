@@ -9,18 +9,17 @@ The workflow integrates bacterial and fungal community analyses, functional pred
 ---
 
 ## Repository structure
-DIF-Microbes/
-├── code/                       # R scripts for full analysis workflow  
-├── data/  
-│   ├── data_raw/              # Raw input tables (ASV, taxonomy)  
-│   ├── phyloseq/              # Processed phyloseq objects (.rds)  
-│   └── picrust2/              # PICRUSt2 input and annotation files  
-├── results/  
-│   ├── figures/               # Final figures (PNG and PDF)  
-│   └── tables/                # Statistical outputs and processed tables  
-├── .gitignore  
-├── LICENSE  
-└── README.md  
+--code/                     # R scripts for full analysis workflow  
+--data/  
+-----data_raw/              # Raw input tables (ASV, taxonomy)  
+-----phyloseq/              # Processed phyloseq objects (.rds)  
+-----picrust2/              # PICRUSt2 input and annotation files  
+--results/  
+------figures/              # Final figures (PNG and PDF)  
+------tables/               # Statistical outputs and processed tables  
+--.gitignore  
+--LICENSE  
+--README.md  
 
 ---
 
