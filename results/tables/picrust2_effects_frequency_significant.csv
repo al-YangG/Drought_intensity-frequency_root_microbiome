@@ -1,0 +1,47 @@
+"PathwayID","PathwayName","Class_L1","Class_L2","Frequency_FDR","Low","High","diff_Low_High"
+"CODH-PWY","reductive acetyl coenzyme A pathway I (homoacetogenic bacteria)","Biosynthesis / cellular components","Cofactor / vitamin metabolism",0.00102066645731776,-4.30185169670844,-2.32690009196857,-1.97495160473987
+"KDO-NAGLIPASYN-PWY","superpathway of (Kdo)2-lipid A biosynthesis","Biosynthesis / cellular components","Lipid metabolism",0.00947636603684921,-5.19572081244556,-2.80307837427182,-2.39264243817374
+"METH-ACETATE-PWY","methanogenesis from acetate","Energy metabolism","Energy / central carbon metabolism",0.00102066645731776,-4.26511103388468,-2.29092516229631,-1.97418587158836
+"NADSYN-PWY","NAD de novo biosynthesis II (from tryptophan)","Biosynthesis / cellular components","Amino acid metabolism",0.00359190733624377,-0.081861047929987,-0.409377895789272,0.327516847859285
+"P108-PWY","pyruvate fermentation to propanoate I","Energy metabolism","Energy / central carbon metabolism",0.000358432424432271,-1.40871837928359,-0.351491767191435,-1.05722661209215
+"P163-PWY","L-lysine fermentation to acetate and butanoate","Biosynthesis / cellular components","Amino acid metabolism",0.00802030349217382,-1.34202047513093,-0.85113860780886,-0.490881867322075
+"P261-PWY","coenzyme M biosynthesis I","Biosynthesis / cellular components","Cofactor / vitamin metabolism",0.0091039986268431,-1.40540294992905,-1.60319832606414,0.19779537613509
+"P42-PWY","incomplete reductive TCA cycle","Energy metabolism","Energy / central carbon metabolism",0.0278618505266376,1.3596377027242,1.50747137823328,-0.147833675509079
+"PWY-1361","benzoyl-CoA degradation I (aerobic)","Substrate utilization / nutrient cycling","Aromatic compound metabolism",0.00358110674001626,-0.416637155575117,-0.625815218610056,0.209178063034939
+"PWY-1501","mandelate degradation I","Substrate utilization / nutrient cycling","Aromatic compound metabolism",0.0478571440349859,-1.49311530372881,-1.71905993167596,0.225944627947149
+"PWY-1622","formaldehyde assimilation I (serine pathway)","Biosynthesis / cellular components","Amino acid metabolism",0.00982263657292773,0.572225188951521,0.392280820451731,0.17994436849979
+"PWY-1861","formaldehyde assimilation II (assimilatory RuMP Cycle)","Energy metabolism","Energy / central carbon metabolism",0.017894082564583,-0.947660978299433,-1.1134943906817,0.165833412382266
+"PWY-5028","L-histidine degradation II","Biosynthesis / cellular components","Amino acid metabolism",0.0376282501360755,0.449125711933145,0.280100897599568,0.169024814333578
+"PWY-5101","L-isoleucine biosynthesis II","Biosynthesis / cellular components","Amino acid metabolism",0.00192024668341595,-1.20347669106925,-0.768502787908291,-0.434973903160962
+"PWY-5104","L-isoleucine biosynthesis IV","Biosynthesis / cellular components","Amino acid metabolism",0.0208314497107036,-2.48936527717803,-1.04077003910147,-1.44859523807656
+"PWY-5178","toluene degradation IV (aerobic) (via catechol)","Substrate utilization / nutrient cycling","Aromatic compound metabolism",0.00741526575936843,-2.29662395476546,-2.70662670993662,0.410002755171163
+"PWY-5430","meta cleavage pathway of aromatic compounds","Substrate utilization / nutrient cycling","Aromatic compound metabolism",0.00780401049330111,-1.4667752061093,-1.90303894076654,0.43626373465724
+"PWY-5505","L-glutamate and L-glutamine biosynthesis","Biosynthesis / cellular components","Amino acid metabolism",0.00623641259274847,0.506747250179536,0.776656056912102,-0.269908806732566
+"PWY-5507","adenosylcobalamin biosynthesis I (anaerobic)","Biosynthesis / cellular components","Cofactor / vitamin metabolism",0.00134229073789021,-5.33901912810956,-2.68631482473033,-2.65270430337923
+"PWY-5531","3,8-divinyl-chlorophyllide a biosynthesis II (anaerobic)","Biosynthesis / cellular components","Secondary metabolite / isoprenoid metabolism",0.017894082564583,-1.01980521638141,-1.10568330293237,0.0858780865509623
+"PWY-5647","2-nitrobenzoate degradation I","Substrate utilization / nutrient cycling","Aromatic compound metabolism",0.0209560560552948,-0.925183004419209,-1.26019678804172,0.335013783622513
+"PWY-5651","L-tryptophan degradation to 2-amino-3-carboxymuconate semialdehyde","Biosynthesis / cellular components","Amino acid metabolism",0.00252170919488948,-0.434554975221314,-0.797297920160228,0.362742944938914
+"PWY-5652","2-amino-3-carboxymuconate semialdehyde degradation to glutaryl-CoA","Other","Other",0.0181946001806491,-1.10047693592638,-1.4490719963426,0.34859506041622
+"PWY-5654","2-amino-3-carboxymuconate semialdehyde degradation to 2-hydroxypentadienoate","Other","Other",0.0478571440349859,-0.974963581825099,-1.29644836127646,0.321484779451362
+"PWY-5855","ubiquinol-7 biosynthesis (early decarboxylation)","Other","Other",0.0204323413837635,1.12958804431346,0.937374854748102,0.192213189565362
+"PWY-6210","2-aminophenol degradation","Substrate utilization / nutrient cycling","Aromatic compound metabolism",0.017894082564583,-1.24642206036017,-1.59653938668995,0.350117326329783
+"PWY-6307","L-tryptophan degradation X (mammalian, via tryptamine)","Biosynthesis / cellular components","Amino acid metabolism",0.0156528933054822,0.552423636585681,0.297606084042365,0.254817552543316
+"PWY-6562","norspermidine biosynthesis","Biosynthesis / cellular components","Amino acid metabolism",0.00224652755636408,-1.23432872301141,-0.765874867497174,-0.46845385551424
+"PWY-6749","CMP-legionaminate biosynthesis I","Biosynthesis / cellular components","Cell envelope / glycan metabolism",0.00798721536331745,-2.91585618195779,-2.32623563796812,-0.589620543989674
+"PWY-6837","fatty acid &beta;-oxidation V (unsaturated, odd number, di-isomerase-dependent)","Biosynthesis / cellular components","Lipid metabolism",0.00741526575936843,-0.950869250968567,-1.1579472299712,0.207077979002631
+"PWY-6936","seleno-amino acid biosynthesis (plants)","Biosynthesis / cellular components","Amino acid metabolism",0.00196609311127303,0.947767132552079,0.819746425281763,0.128020707270316
+"PWY-6957","mandelate degradation to acetyl-CoA","Substrate utilization / nutrient cycling","Aromatic compound metabolism",0.00923093647871838,-1.73026906915329,-2.11144398734565,0.381174918192359
+"PWY-7052","cyanophycin metabolism","Biosynthesis / cellular components","Amino acid metabolism",0.0330584715441544,-0.398822112428404,-0.2003443721389,-0.198477740289505
+"PWY-7072","hopanoid biosynthesis (bacteria)","Biosynthesis / cellular components","Secondary metabolite / isoprenoid metabolism",0.00798721536331745,-0.769932841214001,-0.925692514548584,0.155759673334583
+"PWY-7090","UDP-2,3-diacetamido-2,3-dideoxy-&alpha;-D-mannuronate biosynthesis","Biosynthesis / cellular components","Cell envelope / glycan metabolism",4.10463268701452e-06,-2.03734975863315,-1.36724993420746,-0.67009982442569
+"PWY-722","nicotinate degradation I","Other","Other",5.33864012667072e-05,-1.98452745524798,-2.35380945661793,0.369282001369944
+"PWY-7294","D-xylose degradation IV","Substrate utilization / nutrient cycling","Carbohydrate metabolism",0.0330584715441544,0.319246772364485,0.0949390620841139,0.224307710280371
+"PWY-7316","dTDP-N-acetylviosamine biosynthesis","Biosynthesis / cellular components","Nucleotide metabolism",0.00196609311127303,-1.23247721907068,-0.675108463353451,-0.557368755717228
+"PWY-7377","cob(II)yrinate a,c-diamide biosynthesis I (early cobalt insertion)","Biosynthesis / cellular components","Cofactor / vitamin metabolism",0.0210341954186558,-3.41755563393785,-1.55381215682458,-1.86374347711327
+"PWY-7807","glyphosate degradation III","Substrate utilization / nutrient cycling","Phosphorus metabolism",0.00971086640526538,-0.0715968080282567,-0.248983539996817,0.177386731968561
+"PWY-7873","D-erythronate degradation II","Other","Other",0.0330584715441544,-1.23992740437571,-1.49832714300726,0.258399738631546
+"PWY-8011","L-serine biosynthesis II","Biosynthesis / cellular components","Amino acid metabolism",0.000781728032118869,0.0795234263141903,-0.161159007265946,0.240682433580136
+"PWY-8020","D-xylose degradation V","Substrate utilization / nutrient cycling","Carbohydrate metabolism",0.0209560560552948,-0.378155708809149,-0.771174897624719,0.39301918881557
+"PWY-8085","picolinate degradation","Other","Other",5.33864012667072e-05,-2.01034838167711,-2.37831298469501,0.3679646030179
+"PWY0-1533","methylphosphonate degradation I","Substrate utilization / nutrient cycling","Phosphorus metabolism",0.00985551216172354,-0.0377889571713755,-0.206662585220853,0.168873628049477
+"RUMP-PWY","formaldehyde oxidation I","Energy metabolism","Energy / central carbon metabolism",0.00971086640526538,-1.22320479704364,-1.40326693283359,0.18006213578995

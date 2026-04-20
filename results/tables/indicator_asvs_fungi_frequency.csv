@@ -1,0 +1,7 @@
+"ASV","Indicator","stat","p.value","p_adj","Phylum","Class","Order","Family","Genus"
+"17eabac57ca10bedc508075c64bf7b42","High",0.749515271069418,0.001,0.0361666666666667,"Ascomycota","Dothideomycetes","Pleosporales","Amniculicolaceae","Pseudomassariosphaeria"
+"a3251050e6d0e3f1e9d71940eb42ed9b","High",0.550384157434374,0.001,0.0361666666666667,"Ascomycota","Sordariomycetes","Hypocreales","Nectriaceae","Fusarium"
+"85efdbb5b9ee0dde3bd9115e381f9b9f","High",0.537261743966846,0.001,0.0361666666666667,"Ascomycota","Sordariomycetes","Hypocreales","Nectriaceae","Fusarium"
+"fb5c60706ec59527ffb14f389914ebf2","High",0.536622752414609,0.001,0.0361666666666667,"Ascomycota","Sordariomycetes","Sordariales","",""
+"2d783fc0a24c9350fd6e4c008ade61f1","High",0.506142902740239,0.001,0.0361666666666667,"Ascomycota","Eurotiomycetes","Eurotiales","Aspergillaceae","Penicillium"
+"84f6998f9b93aef37ee9f2ca8995f0cd","High",0.385219932275332,0.001,0.0361666666666667,"Mortierellomycota","Mortierellomycetes","Mortierellales","Mortierellaceae","Mortierella"
