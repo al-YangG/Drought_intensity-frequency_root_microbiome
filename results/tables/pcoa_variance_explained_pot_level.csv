@@ -1,0 +1,5 @@
+"Dataset","Axis","Variance_explained_percent"
+"Bacteria","PCoA1",26.734
+"Bacteria","PCoA2",9.327
+"Fungi","PCoA1",24.138
+"Fungi","PCoA2",8.368

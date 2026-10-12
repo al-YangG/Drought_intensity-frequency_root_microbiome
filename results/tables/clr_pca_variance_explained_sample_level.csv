@@ -1,0 +1,5 @@
+"Dataset","Axis","Variance_explained_percent"
+"Bacteria","PC1",11.2
+"Bacteria","PC2",5.8
+"Fungi","PC1",10.7
+"Fungi","PC2",5

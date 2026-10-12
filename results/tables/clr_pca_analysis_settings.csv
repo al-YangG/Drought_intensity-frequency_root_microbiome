@@ -1,0 +1,8 @@
+"Setting","Value"
+"analysis_level","Sample"
+"subsample_aggregation","None"
+"zero_replacement","pseudocount = 0.5"
+"ordination","PCA of CLR-transformed counts"
+"distance","Euclidean on CLR (Aitchison)"
+"permutations","999"
+"permanova_tests","sequential (by = term)"
