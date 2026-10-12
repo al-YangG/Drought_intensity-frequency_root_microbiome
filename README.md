@@ -1,9 +1,8 @@
 # Drought_intensity-frequency_root_microbiome
-Data and R scripts from a factorial drought experiment investigating the effects of drought intensity and frequency on root-associated microbiomes.
+Data and R scripts from a factorial drought experiment investigating the effects of water amount and watering frequency on root-associated microbiomes.
 
 ## Overview
-This repository contains data and R code for analyzing how drought intensity, drought frequency, plant community composition and their interactions shape root-associated microbial communities and their links to plant traits and performance in a temperate dry grassland experiment.
-
+This folder contains data and R code for analyzing how drought intensity (water amount), drought frequency (watering frequency), plant community composition and their interactions shape root-associated microbial communities and their links to plant traits and performance in a temperate dry grassland experiment.
 The workflow integrates bacterial and fungal community analyses, functional predictions (PICRUSt2, FUNGuild), indicator species analysis, and structural equation modeling (SEM).
 
 ---
@@ -100,8 +99,8 @@ Main packages used include:
 ---
 
 ## Associated study
-Yang, G. et al.  
-**Drought intensity rather than frequency structures root-associated microbial communities and their links to plant performance** 
+Yang, Gang; Dostalek, Tomas; Zuzana, Münzbergová. Functional Ecology (2026)  
+**Water amount, rather than watering frequency, structures root-associated microbial communities and their links to plant performance** 
 
 ---
 
